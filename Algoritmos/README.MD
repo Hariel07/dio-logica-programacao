@@ -1,0 +1,1 @@
+Algoritmo é como uma sequência de passos para resolver um problema.
