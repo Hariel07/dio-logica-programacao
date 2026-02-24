@@ -26,7 +26,7 @@ Terminação refere-se ao início ou fim de um processo. É representado por um 
 Um processo representa uma tarefa, ação ou operação específica que precisa ser realizada. É um dos elementos mais comuns em fluxogramas e é tipicamente mostrado como um retângulo.
 Em resumo, os simbólos de processo são o "cavalo de batalha" de um fluxograma. Eles mapeiam o que realmente é feito em cada etapa, ajudando a tornar fluxos de trabalho complexos fáceis de entender e analisar.
 
-![Imagem de Retangulo](./imagesReadme/retanguloFlu.jpg)
+<img src="./imagesReadme/retanguloFlu.jpg" width="50%">
 
 ### Decisão
 
@@ -54,6 +54,7 @@ O símbolo de Atraso representa uma pausa ou período de espera em um processo. 
 O símbolo de Dados é usado para representar informações sendo armazenadas ou recuperadas, tipicamente de um arquivo, banco de dados ou outro meio de armazenamento. Geralmente é desenhado como um retângulo inclinado (um paralelogramo) ou um cilindro se referindo especificamente a um banco de dados.
 
 ![Imagem de Dados](./imagesReadme/retanguloInclinadoFlux.png)
+
 
 **Existem algumas variações:**
 
