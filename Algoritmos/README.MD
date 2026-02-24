@@ -26,7 +26,7 @@ Terminação refere-se ao início ou fim de um processo. É representado por um 
 Um processo representa uma tarefa, ação ou operação específica que precisa ser realizada. É um dos elementos mais comuns em fluxogramas e é tipicamente mostrado como um retângulo.
 Em resumo, os simbólos de processo são o "cavalo de batalha" de um fluxograma. Eles mapeiam o que realmente é feito em cada etapa, ajudando a tornar fluxos de trabalho complexos fáceis de entender e analisar.
 
-<img src="./imagesReadme/retanguloFlu.jpg" width="100">
+<img src="./imagesReadme/retanguloFlu.jpg" width="250">
 
 ### Decisão
 
