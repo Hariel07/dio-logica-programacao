@@ -2,7 +2,7 @@
 
 Algoritmo é como uma sequência de passos para resolver um problema.
 
-** Foi feito um fluxograma desenvolvido em Aula: **
+**Foi feito um fluxograma desenvolvido em Aula:**
 
 Inicio -> Digite o nome do seu abrigo -> Tem boclos suficiente -> sim -> Parar de colher blocos, nao -> Colher mais blocos -> Construir o abrigo -> Ainda tem blocos o suficiente -> Finalizar a construção -> Mensagem de saida: Abrigo finalizado.
 
@@ -13,7 +13,7 @@ Inicio -> Digite o nome do seu abrigo -> Tem boclos suficiente -> sim -> Parar d
 O primeiro símbolo a ser exibido é a seta, um símbolo de conexão usado para indicar um link entre dois outros símbolos e a direção do fluxo.
 As setas em fluxogramas desempenham um papel crucial—elas mostram a direção do fluxo, guiando o leitor através do processo de um passo para o próximo. Pense nelas como o “tecido conectivo” entre diferentes símbolos ou ações. Sem setas, um fluxograma seria apenas uma coleção de caixas sem uma sequência clara.
 
-![Imagem de Seta](./images/imageSeta.avif)
+![Imagem de Seta](./images/setaFlux.png)
 
 ### Terminação
 
@@ -33,8 +33,10 @@ Em essência, os pontos de decisão são o que tornam os fluxogramas dinâmicos.
 
 O símbolo de Atraso representa uma pausa ou período de espera em um processo. É usado quando o fluxo de trabalho deve parar temporariamente—seja para esperar que uma condição seja atendida, um temporizador expire ou uma ação externa seja concluída. O símbolo se parece com um semicírculo em forma de “D”, com o lado plano à esquerda.
 
-** Exemplos de símbolo de Atraso: **
+**Exemplos de símbolo de Atraso:**
 
--“Esperar por entrada do usuário”
--“Pausar 10 segundos”
--“Aguardar até receber aprovação”
+- “Esperar por entrada do usuário”
+- “Pausar 10 segundos”
+- “Aguardar até receber aprovação”
+
+
