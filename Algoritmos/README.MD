@@ -26,7 +26,7 @@ Terminação refere-se ao início ou fim de um processo. É representado por um 
 Um processo representa uma tarefa, ação ou operação específica que precisa ser realizada. É um dos elementos mais comuns em fluxogramas e é tipicamente mostrado como um retângulo.
 Em resumo, os simbólos de processo são o "cavalo de batalha" de um fluxograma. Eles mapeiam o que realmente é feito em cada etapa, ajudando a tornar fluxos de trabalho complexos fáceis de entender e analisar.
 
-![Imagem de Retangulo](./imagesReadme/retanguloFlux.png)
+![Imagem de Retangulo](./imagesReadme/retanguloFlu.jpg)
 
 ### Decisão
 
@@ -67,7 +67,10 @@ O símbolo de Dados traz contexto sobre quais informações estão sendo manipul
 
 O símbolo de Documento representa um documento único gerado, recebido ou usado em um processo. Parece um retângulo com uma borda inferior ondulada (curvada), lembrando uma folha de papel.
 
-![Imagem de Documnto](./imagesReadme/RetOndFlux.png)
+![Imagem de Retondu](./imagesReadme/RetOndFlux.png)
 
 Este símbolo de fluxograma é especialmente útil em processos de negócio, fluxos de trabalho legais ou sistemas onde a papelada (digital ou física) desempenha um papel. Ajuda a esclarecer quais documentos estão envolvidos em quais etapas, tornando seu fluxograma mais completo e informativo.
 
+## Principais Simbolos
+
+![Imagem de Simbolos](./imagesReadme/simbologia-do-fluxograma.jpg)
