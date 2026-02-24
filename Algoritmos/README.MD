@@ -13,7 +13,7 @@ Inicio -> Digite o nome do seu abrigo -> Tem boclos suficiente -> sim -> Parar d
 O primeiro símbolo a ser exibido é a seta, um símbolo de conexão usado para indicar um link entre dois outros símbolos e a direção do fluxo.
 As setas em fluxogramas desempenham um papel crucial—elas mostram a direção do fluxo, guiando o leitor através do processo de um passo para o próximo. Pense nelas como o “tecido conectivo” entre diferentes símbolos ou ações. Sem setas, um fluxograma seria apenas uma coleção de caixas sem uma sequência clara.
 
-![Imagem de Seta](./images/setaFlux.png)
+![Imagem de Seta](./imagesReadme/setaFlux.png)
 
 ### Terminação
 
